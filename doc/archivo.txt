@@ -1,1 +1,4 @@
-linea incluida desde el exterior 
+Comienzo del texto
+ linea incluida desde el exterior
+linea incluida desde el exterior
+linea incluida desde el exterior
